@@ -1,48 +1,76 @@
-# Botium Toys: Internal Security Audit
+# Botium Toys — Internal Security Audit
 
-## Project overview
+## Project Overview
 
-This is a simulated internal security audit based on the fictional Botium Toys business scenario from the Google Cybersecurity Professional Certificate, Course 2: **Play It Safe: Manage Security Risks**.
+This project is a simulated internal security audit based on the fictional Botium Toys business scenario from the **Google Cybersecurity Professional Certificate — Course 2: Play It Safe: Manage Security Risks**.
 
-The purpose of the activity was to review the company's audit scope, goals, assets, and risk assessment; evaluate the controls currently in place; assess selected compliance best practices; and recommend improvements.
+The purpose of this activity was to examine the organization's security posture, review its audit scope and goals, assess existing security controls, evaluate selected compliance requirements, identify security gaps, and recommend improvements.
 
-## Scenario
+**My role:** Cybersecurity learner conducting a course-based audit assessment and documenting findings and recommendations.
 
-Botium Toys is a fictional U.S. toy retailer with one physical location that serves as its office, storefront, and warehouse. Its online business also serves customers in the U.S. and internationally, including the European Union.
+## Business Scenario
 
-The IT manager is concerned about the company's security posture, business continuity, and compliance responsibilities.
+Botium Toys is a fictional U.S.-based toy retailer with one physical location serving as its office, storefront, and warehouse. Its online business serves customers in the United States and internationally, including the European Union.
 
-## Audit result at a glance
+The IT manager is concerned about the organization's security posture, business continuity, and compliance responsibilities.
 
-- The supplied risk assessment assigns Botium Toys a risk score of **8 out of 10**, described as fairly high.
-- Important gaps include excessive employee access to sensitive information, missing encryption, no backups or disaster recovery plan, no IDS, and weak password management.
-- Some controls are present, including a firewall, antivirus, physical locks, CCTV, and fire detection/prevention systems.
-- The company has a password policy and legacy-system monitoring, but both need improvement.
+## Key Audit Findings
 
-## Documents in this case study
+The course-provided risk assessment assigns Botium Toys a risk score of **8 out of 10**, indicating a fairly high level of risk.
 
-- [Audit Scope and Methodology](Audit-Scope-and-Methodology.md)
-- [Controls Assessment](Controls-Assessment.md)
-- [Compliance Assessment](Compliance-Assessment.md)
-- [Risk Findings and Recommendations](Risk-Findings-and-Recommendations.md)
-- [Learning Reflection](Learning-Reflection.md)
+### Identified Security Gaps
 
-## Learning outcomes
+- Excessive employee access to sensitive information.
+- Missing encryption for sensitive data.
+- No established data backup or disaster recovery plan.
+- No intrusion detection system (IDS).
+- Weak password management practices.
 
-This activity helped me practise how to:
+### Existing Security Controls
 
-1. Review an organization's audit scope, goals, assets, and risk assessment.
-2. Distinguish threats, vulnerabilities, risks, and security controls.
-3. Evaluate administrative, technical, and physical/operational controls.
-4. Review selected PCI DSS, GDPR, and SOC-related best practices.
-5. Identify security gaps and recommend risk-reduction measures.
+The scenario indicates that some security controls are already in place:
 
-## Assessment and knowledge check
+- Firewall
+- Antivirus software
+- Physical locks
+- CCTV surveillance
+- Fire detection and prevention systems
 
-I completed the course activity's quizzes, matching activities, and graded assignment as reported during the course. I also completed a separate five-question knowledge check on the audit concepts with a score of **5/5**.
+Some existing measures, including the password policy and legacy-system monitoring, require improvement.
 
-## Important note
+## Project Documentation
 
-This is a **simulated educational case study** based on a fictional company and the information supplied in the course activity. It is not a real audit, legal compliance assessment, certification, or professional engagement. The Yes/No decisions are judgments based on the scenario, not independent verification of an actual organization's systems.
+The following documents provide details of my assessment:
+
+1. [Audit Scope and Methodology](Audit-Scope-and-Methodology.md)
+2. [Controls Assessment](Controls-Assessment.md)
+3. [Compliance Assessment](Compliance-Assessment.md)
+4. [Risk Findings and Recommendations](Risk-Findings-and-Recommendations.md)
+5. [Learning Reflection](Learning-Reflection.md)
+
+## Skills Practised
+
+Through this activity, I practised:
+
+- Reviewing audit scope, goals, assets, and risk assessments.
+- Understanding threats, vulnerabilities, risks, and security controls.
+- Evaluating administrative, technical, and physical/operational controls.
+- Reviewing selected PCI DSS, GDPR, and SOC-related best practices.
+- Identifying security gaps and recommending risk-reduction measures.
+- Documenting audit findings in a structured format.
+
+## Assessment and Knowledge Check
+
+I completed the course activity's quizzes, matching exercises, and graded assignment. I also completed a separate five-question knowledge check on audit concepts, scoring **5/5**.
+
+## Important Disclaimer
+
+This is a **simulated educational case study** based on a fictional company and information provided in the Google Cybersecurity Professional Certificate course.
+
+It is not a real-world security audit, legal compliance assessment, certification, or professional engagement. The assessment decisions are based only on the supplied scenario and have not been independently verified against an actual organization's systems.
+
+---
+
+**Learning Portfolio:** [Cybersecurity Portfolio](https://github.com/MuhammadAkif321/cybersecurity-portfolio)
 
 *Prepared as an original learning record. The source scenario and course materials belong to their respective owners.*
