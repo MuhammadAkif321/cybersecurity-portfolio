@@ -28,7 +28,9 @@ GDPR is an EU data protection and privacy regulation.
 
 ## 3. System and Organization Controls (SOC Type 1 / Type 2) checklist
 
-SOC reports concern controls at service organizations. The following are the scenario-based answers to the course checklist statements; they do not establish that the company has a SOC report or has passed a SOC examination.
+SOC reports concern controls at service organizations. SOC 1 examinations focus on controls relevant to user entities' internal control over financial reporting. SOC 2 examinations evaluate controls against the Trust Services Criteria, which cover security, availability, processing integrity, confidentiality, and privacy.
+
+The following are scenario-based answers to the course checklist statements. They do not establish that Botium Toys has a SOC report or has passed an independent SOC examination. SOC reports are examination reports, not certifications.
 
 | # | Best practice | Yes / No | Scenario-based reason |
 |---:|---|:---:|---|
