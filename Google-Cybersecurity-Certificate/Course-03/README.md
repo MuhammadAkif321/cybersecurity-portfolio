@@ -7,6 +7,7 @@ I am organizing each module with a summary and key terms so I can revise the con
 ## Modules
 
 1. [Module 1 — Network Architecture and the TCP/IP Model](Module-01/README.md)
+2. [Module 2 — Network Operations](Module-02/README.md)
 
 More module documentation will be added as I progress through the course.
 
